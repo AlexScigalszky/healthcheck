@@ -17,13 +17,21 @@ status-website:
   baseUrl: /healthcheck
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Alex Health Check reporter
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Alex's apps reporter implemented in a fork of *Upptime* open-source template."
+  introMessage: Check online status
   navbar:
-    - title: Status
+    - title: Status Status
       href: /
-    - title: GitHub
+    - title: Go to repo
       href: https://github.com/$OWNER/$REPO
+    - title: Palabras Aleatorias API
+      href: https://palabras-aleatorias-public-api.herokuapp.com/
+    - title: Palabras Aleatorias PWA
+      href: https://palabrasaleatorias.ar
+    - title: Heroku
+      href: https://dashboard.heroku.com/
+    - title: My Profile
+      href: https://github.com/$OWNER/
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"

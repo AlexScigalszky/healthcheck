@@ -7,6 +7,8 @@ sites:
     url: palabrasaleatorias.ar
   - name: Palabras Aleatorias API 
     url: https://palabras-aleatorias-public-api.herokuapp.com/
+  - name: Twitter Post
+    url: https://palabras-aleatorias-public-api.herokuapp.com/twitter
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

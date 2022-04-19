@@ -8,7 +8,7 @@ sites:
   - name: Palabras Aleatorias API 
     url: https://palabras-aleatorias-public-api.herokuapp.com/
   - name: Twitter Post
-    url: https://palabras-aleatorias-public-api.herokuapp.com/twitter
+    url: https://palabras-aleatorias-public-api.herokuapp.com/twitter/post
   - name: Newsletter
     url: https://palabras-aleatorias-public-api.herokuapp.com/newsletter/send
 

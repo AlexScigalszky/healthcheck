@@ -1,7 +1,7 @@
 url: https://palabras-aleatorias-public-api.herokuapp.com/
-status: up
-code: 200
-responseTime: 50
-lastUpdated: 2022-04-23T23:19:49.733Z
+status: down
+code: 503
+responseTime: 90
+lastUpdated: 2022-04-24T23:19:04.806Z
 startTime: Thu Feb 03 2022 21:22:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

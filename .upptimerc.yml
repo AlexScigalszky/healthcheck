@@ -41,6 +41,6 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "0 */24 * * *"
+  uptime: "0 20 * * 3"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

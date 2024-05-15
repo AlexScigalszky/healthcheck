@@ -19,7 +19,7 @@ status-website:
     - title: Status
       href: /
     - title: Swagger Comparator UI
-      href: /
+      href: https://swaggercomparator-ui.onrender.com
     - title: HealthCheck Repo
       href: https://github.com/$OWNER/$REPO
 workflowSchedule:

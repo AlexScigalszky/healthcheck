@@ -21,7 +21,7 @@ status-website:
   introMessage: Status of every intent to the endpoints of Swagger Comparator API, UI and Notifier
   navbar:
     - title: Status
-      href: /
+      href: /healthcheck
     - title: Swagger Comparator UI
       href: https://swaggercomparator-ui.onrender.com
     - title: HealthCheck Repo

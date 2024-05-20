@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6330,
-    "timeDay": 13237,
-    "timeWeek": 6330,
-    "timeMonth": 6330,
-    "timeYear": 6330,
+    "time": 6897,
+    "timeDay": 13187,
+    "timeWeek": 6897,
+    "timeMonth": 6897,
+    "timeYear": 6897,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "https://swagerchangesnotifier.onrender.com/notifier/execute",
     "icon": "https://icons.duckduckgo.com/ip3/swagerchangesnotifier.onrender.com.ico",
     "slug": "swagger-comparator-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2861,
-    "timeDay": 4552,
-    "timeWeek": 2861,
-    "timeMonth": 2861,
-    "timeYear": 2861,
-    "dailyMinutesDown": {}
+    "time": 2719,
+    "timeDay": 2994,
+    "timeWeek": 2719,
+    "timeMonth": 2719,
+    "timeYear": 2719,
+    "dailyMinutesDown": {
+      "2024-05-20": 0
+    }
   },
   {
     "name": "SwaggerComparator UI",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 358,
-    "timeWeek": 255,
-    "timeMonth": 255,
-    "timeYear": 255,
+    "time": 246,
+    "timeDay": 260,
+    "timeWeek": 246,
+    "timeMonth": 246,
+    "timeYear": 246,
     "dailyMinutesDown": {}
   }
 ]
